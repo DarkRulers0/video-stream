@@ -8,8 +8,8 @@
         "video stream",
         "pyrogram"
     ],
-    "website": "https://t.me/levinachannel",
-    "repository": "https://github.com/levina-lab/video-stream",
+    "website": "",
+    "repository": "https://github.com/Darkrulers0/video-stream",
     "success_url": "https://t.me/dlwrml",
     "env": {
         "API_ID": {
